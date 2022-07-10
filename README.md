@@ -5,7 +5,7 @@ I have made slight modifications to them and released the compiled jar files her
 # The modifications:
 ### CavusNostra
  - Added ability to lead Unicorn Foals
- - Added ability to groom Unicorn Foals and Hellhorse Foal
+ - Added ability to groom Unicorn Foals and Hellhorse Foals
  
 ### TentSleep
  - Added ability to sleep without having to select an item
